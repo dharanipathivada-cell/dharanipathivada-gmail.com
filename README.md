@@ -1,2 +1,2 @@
-# dharanipathivada-gmail.com
+A SIMPLE CALCULATOR 
 A simple c program that performs basic arithmetic operations like addition, subtraction, multiplication and division 
